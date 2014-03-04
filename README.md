@@ -1,6 +1,7 @@
-# JJ Merelo pages
 
-A repo for my GitHub personal page.
+# La página de Renato
+
+Página personal de Renato
 
 ## Based on
 

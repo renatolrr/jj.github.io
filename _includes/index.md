@@ -1,6 +1,8 @@
 ## A page to point to them all
 
-Renato
+[Renato Ramirez](http://renatoramirez.com/)
+
+[Taller de git](http://renatolrr.github.io/taller_git/)
 
 ## Based on
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.

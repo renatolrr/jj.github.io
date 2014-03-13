@@ -2,8 +2,8 @@
 
 Página personal de Renato
 
-[Taller de gir](http://renatolrr.github.io/taller_git/)
-http://renatolrr.github.io/taller_git/
+[Taller de git](http://renatolrr.github.io/taller_git/)
+
 
 ## Based on
 

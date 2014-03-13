@@ -1,7 +1,9 @@
-
 # La página de Renato
 
 Página personal de Renato
+
+[Taller de gir](http://renatolrr.github.io/taller_git/)
+http://renatolrr.github.io/taller_git/
 
 ## Based on
 
